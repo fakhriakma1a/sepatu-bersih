@@ -20,11 +20,11 @@ API ini dirancang agar pengguna atau admin dapat:
 
 | Fitur | Deskripsi |
 |-------|------------|
-| ➕ **Create** | Tambah data sepatu baru ke daftar cucian |
-| 📋 **Read** | Ambil semua data sepatu atau filter berdasarkan status |
-| ✏️ **Update** | Ubah informasi atau status cucian sepatu |
-| ❌ **Delete** | Hapus data sepatu dari daftar |
-| 🔍 **Filter by Status** | Contoh: `GET /items?status=Selesai` |
+|  **Create** | Tambah data sepatu baru ke daftar cucian |
+|  **Read** | Ambil semua data sepatu atau filter berdasarkan status |
+|  **Update** | Ubah informasi atau status cucian sepatu |
+|  **Delete** | Hapus data sepatu dari daftar |
+|  **Filter by Status** | Contoh: `GET /items?status=Selesai` |
 
 ---
 
