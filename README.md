@@ -5,7 +5,7 @@ API ini mendukung operasi **CRUD (Create, Read, Update, Delete)** serta fitur **
 
 ---
 
-## 🚀 Tujuan Proyek
+## Tujuan Proyek
 Proyek ini dibuat untuk memenuhi tugas pembuatan **REST API sederhana** menggunakan Node.js dan Express.js dengan database eksternal (Supabase), serta deployment ke Vercel.
 
 API ini dirancang agar pengguna atau admin dapat:
@@ -16,7 +16,7 @@ API ini dirancang agar pengguna atau admin dapat:
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|------------|
@@ -28,7 +28,7 @@ API ini dirancang agar pengguna atau admin dapat:
 
 ---
 
-## 🧱 Struktur Data
+## Struktur Data
 
 Data disimpan di **Supabase** dengan struktur tabel `items` seperti berikut:
 
@@ -43,7 +43,7 @@ Data disimpan di **Supabase** dengan struktur tabel `items` seperti berikut:
 
 ---
 
-## 🔗 Endpoint API
+## Endpoint API
 
 ### 1. **GET /items**
 Ambil seluruh daftar sepatu.  
