@@ -1,0 +1,28 @@
+{
+  "name": "sepatu-bersih-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.75.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "description": "API backend untuk layanan cuci sepatu menggunakan Node.js, Express, dan Supabase.",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
